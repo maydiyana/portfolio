@@ -208,6 +208,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content .ig a{
+    background: none;
     display: inline-block;
     color: crimson;
     font-size: 20px;
